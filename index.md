@@ -4,16 +4,14 @@ I am an Informatics student at Islamic University of Indonesia. I am a kind of p
 ---
 
 ## Hard Skills
-| No | Skills     | Level of Competence    |
-| -- | ---------  | ---------------------- |
-| 1  | Laravel    | Intermediate           |
-| 2  | HTML       | Intermediate           |
-| 3  | Javascript | Junior to Intermediate |
-| 4  | CSS        | Intermediate           |
-| 5  | PHP        | Intermediate           |
-| 6  | MySQL      | Intermediate           |
-| 7  | Android    | Intermediate           |
-| 8  | Firebase   | Junior to Intermediate |
+1. **Laravel** - *Intermediate*
+2. **HTML** - *Intermediate*
+3. **Javascript** - *Junior to Intermediate*
+4. **CSS** - *Intermediate*
+5. **PHP** - *Intermediate*
+6. **MySQL** - *Intermediate*
+7. **Android** - *Intermediate*
+8. **Firebase** - *Junior to Intermediate*
 
 ## Other Skills
 1. Proficiency in English 
