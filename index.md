@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Personal Profile
+I am an Informatics student at Islamic University of Indonesia. I am a kind of person that gives high attention to detail and always put a lot of effort to achieve my goals. I am a hard worker and able to work both individually and in a team. I am looking forward to develop my experiences in order to acquire a bright future career.
 
-You can use the [editor on GitHub](https://github.com/ffajarpratama/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hard Skills
+| No | Skills     | Level of Competence    |
+| -- | ---------  | ---------------------- |
+| 1  | Laravel    | Intermediate           |
+| 2  | HTML       | Intermediate           |
+| 3  | Javascript | Junior to Intermediate |
+| 4  | CSS        | Intermediate           |
+| 5  | PHP        | Intermediate           |
+| 6  | MySQL      | Intermediate           |
+| 7  | Android    | Intermediate           |
+| 8  | Firebase   | Junior to Intermediate |
 
-### Markdown
+## Other Skills
+1. Proficiency in English 
+2. Design 
+3. Figma 
+4. Adobe Illustrator 
+5. Adaptive 
+6. Hard Worker
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+## Experiences
+#### Kayan Putra Utama Coal And Mining
+*High School Internship Program, 2015*
+- Worked as IT Support
+- Troubleshoots hardware and network issues in office
 
-# Header 1
-## Header 2
-### Header 3
+#### National Academic Essay Writing and Presentation
+*Participant, 2015*
 
-- Bulleted
-- List
+#### Province English Debate Tournament
+*1st Place, 2015*
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## Education
+#### Universitas Islam Indonesia
+*Informatics, 2017-present*
+- Former member of English Debate Society UII
+- Member of Komunitas Musik Informatika
+- Participated in various campus events
 
-[Link](url) and ![Image](src)
-```
+#### SMK Negeri 1 Tenggarong
+*Computer and Network, 2015-2017*
+- Member of the Debate Team
+- Win in various debate competitions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ffajarpratama/digital-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+- +62 822 4308 9903
+- 17523094@students.uii.ac.id
+- Jalan Kaliurang KM. 12,5. No. 32, Candi Karang, Sardonoharjo, Ngaglik, Sleman
