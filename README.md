@@ -1,3 +1,5 @@
+# ***Fajar Pratama Purwantoro Putra***
+
 ## Personal Profile
 I am an Informatics student at Islamic University of Indonesia. I am a kind of person that gives high attention to detail and always put a lot of effort to achieve my goals. I am a hard worker and able to work both individually and in a team. I am looking forward to develop my experiences in order to acquire a bright future career.
 
